@@ -26,5 +26,5 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 - ### Extract Sudoku Grid
 Use *cv2.warpPerspective* to get stable Sudoku Grid
 <p align="center">
-  <img src="/Images/prespective.png" width="300" height="250" />
+  <img src="/Images/prespective.png" width="300" height="300" />
 </p>
