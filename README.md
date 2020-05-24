@@ -71,4 +71,3 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
   <img src="/Images/result.png" width="300" height="250" />
 </p>
 
-[Linkedin](https://www.linkedin.com/in/prishita-kadam-8ba801173/)
