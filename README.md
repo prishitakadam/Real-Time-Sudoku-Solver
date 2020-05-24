@@ -15,10 +15,10 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 
 ## 1. Grab the Sudoko Grid from the Webcam Image
 - ### Extracting the Contour with biggest area
-1. Convert image to Gray scale (cv2.cvtColor)
-2. Blur the image using Gaussian Blur (cv2.GaussianBlur)
-3. Apply adaptive thresholding (cv2.adaptiveThreshold)
-4. Extract the contour with biggest area (cv2.contourArea)
+1. Convert image to Gray scale *(cv2.cvtColor)*
+2. Blur the image using Gaussian Blur *(cv2.GaussianBlur)*
+3. Apply adaptive thresholding *(cv2.adaptiveThreshold)*
+4. Extract the contour with biggest area *(cv2.contourArea)*
 <p align="center">
   <img src="/Images/frame.png" width="300" height="250" />
 </p>
@@ -26,5 +26,5 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 - ### Extract Sudoku Grid
 Use *cv2.warpPerspective* to get stable Sudoku Grid
 <p align="center">
-  <img src="/Images/perspective.png" width="300" height="250" />
+  <img src="/Images/prespective.png" width="300" height="250" />
 </p>
