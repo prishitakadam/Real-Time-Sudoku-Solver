@@ -28,8 +28,11 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
   <img src="/Images/frame.png" width="300" height="250" />
 </p>
 
-- ### Extract Sudoku Grid
-Use *cv2.warpPerspective* to get stable Sudoku Grid
+<details>
+<summary><b>Extract Sudoku Grid</b></summary>
+  Use <i>cv2.warpPerspective</i> to get stable Sudoku Grid
+ </details>
+ 
 <p align="center">
   <img src="/Images/prespective.png" width="300" height="300" />
 </p>
