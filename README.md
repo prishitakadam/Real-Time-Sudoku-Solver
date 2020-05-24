@@ -17,16 +17,13 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 <details>
 <summary><b>Extracting the Contour with biggest area</b></summary>
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Convert image to Gray scale <i>(cv2.cvtColor)</i></li>
+  <li>Blur the image using Gaussian Blur <i>(cv2.GaussianBlur)</i></li>
+  <li>Apply adaptive thresholding <i>(cv2.adaptiveThreshold)</i></li>
+  <li>Extract the contour with biggest area <i>(cv2.contourArea)</i></i></li>
 </ol>
 </details>
-- ### Extracting the Contour with biggest area
-1. Convert image to Gray scale *(cv2.cvtColor)*
-2. Blur the image using Gaussian Blur *(cv2.GaussianBlur)*
-3. Apply adaptive thresholding *(cv2.adaptiveThreshold)*
-4. Extract the contour with biggest area *(cv2.contourArea)*
+
 <p align="center">
   <img src="/Images/frame.png" width="300" height="250" />
 </p>
