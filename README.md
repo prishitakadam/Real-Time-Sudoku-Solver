@@ -37,7 +37,7 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
   <img src="/Images/prespective.png" width="300" height="300" />
 </p>
 
-## 1. Extract and Detect the Digits
+## 2. Extract and Detect the Digits
 <details>
 <summary><b>Process the Extracted Grid</b></summary>
   Use <i>cv2.morphologyEx</i> and Invert the image
@@ -46,4 +46,13 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
  <p align="center">
   <img src="/Images/P-Window.png" width="300" height="300" />
   <img src="/Images/invert.png" width="300" height="300" />
+</p>
+
+<details>
+<summary><b>Get Individual Cells of the grid and Predict the Digit</b></summary>
+  Model used for prediction has been trained on subset of <i>Chars4K Dataset</i> which contains digits only (0-9).
+  Model can be viewed [here](https://github.com/prishitakadam/Real-Time-Sudoku-Solver/blob/master/Digit%20Recognizer%20Model.ipynb)
+ </details>
+ <p align="center">
+  <img src="/Images/segements.png" width="200" height="200" />
 </p>
