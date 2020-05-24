@@ -55,5 +55,5 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 
  </details>
  <p align="center">
-  <img src="/Images/segements.png" width="300" height="300" />
+  <img src="/Images/segements.png" width="300" height="250" />
 </p>
