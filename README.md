@@ -16,10 +16,11 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 ## 1. Grab the Sudoko Grid from the Webcam Image
 <details>
 <summary><b>Extracting the Contour with biggest area</b></summary>
-\n1. Convert image to Gray scale *(cv2.cvtColor)*
-2. Blur the image using Gaussian Blur *(cv2.GaussianBlur)*
-3. Apply adaptive thresholding *(cv2.adaptiveThreshold)*
-4. Extract the contour with biggest area *(cv2.contourArea)*
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
 </details>
 - ### Extracting the Contour with biggest area
 1. Convert image to Gray scale *(cv2.cvtColor)*
