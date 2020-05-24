@@ -36,3 +36,14 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 <p align="center">
   <img src="/Images/prespective.png" width="300" height="300" />
 </p>
+
+## 1. Extract and Detect the Digits
+<details>
+<summary><b>Process the Extracted Grid</b></summary>
+  Use <i>cv2.morphologyEx</i> and Invert the image
+ </details>
+ 
+ <p align="left">
+  <img src="/Images/P-Window.png" width="300" height="300" />
+  <img src="/Images/invert.png" width="300" height="300" />
+</p>
