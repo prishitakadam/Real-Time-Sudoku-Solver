@@ -1,1 +1,1 @@
-# Real-Time-Sudoko-Solver
+# Real-Time-Sudoku-Solver
