@@ -1,7 +1,7 @@
 # Real Time Sudoku Solver
 
-<p float="left">
-  <img src="/Images/SudokuSolver.gif" width="100" />
+<p align="center">
+  <img src="/Images/SudokuSolver.gif" width="500" height="100" />
 </p>
 
 
