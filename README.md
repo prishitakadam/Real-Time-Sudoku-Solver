@@ -43,7 +43,7 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
   Use <i>cv2.morphologyEx</i> and Invert the image
  </details>
  
- <p align="left">
+ <p align="center">
   <img src="/Images/P-Window.png" width="300" height="300" />
   <img src="/Images/invert.png" width="300" height="300" />
 </p>
