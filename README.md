@@ -66,7 +66,7 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 <i>(Click on the points to expand)</i>
 <details>
 <summary><b>Solution and Final Result</b></summary>
-<p>To solve Sudoko, backtracking has been used. Sudoku Backtracking is a recursive algorithm which goes through each cells and sequentially assigns numbers from 1 to 9 if the cell is empty. Notebook for the same can be viewed Model can be viewed <a href="https://github.com/prishitakadam/Real-Time-Sudoku-Solver/blob/master/sudokosolver.ipynb">here</a>.</p>
+<p>To solve Sudoko, backtracking has been used. Sudoku Backtracking is a recursive algorithm which goes through each cells and sequentially assigns numbers from 1 to 9 if the cell is empty. Notebook for the same can be viewed <a href="https://github.com/prishitakadam/Real-Time-Sudoku-Solver/blob/master/sudokosolver.ipynb">here</a>.</p>
   <p>To display the result use <i>cv2.putText</i>.</p>
 </details>
 
