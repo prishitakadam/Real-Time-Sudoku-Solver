@@ -39,6 +39,7 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 </p>
 
 ## 2. Extract and Detect the Digits
+<i>(Click on the points to expand)</i>
 <details>
 <summary><b>Process the Extracted Grid</b></summary>
   Use <i>cv2.morphologyEx</i> and Invert the image
@@ -62,6 +63,7 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 </p>
 
 ## 3. Solve the puzzel and Print the Solution
+<i>(Click on the points to expand)</i>
 <details>
 <summary><b>Solution and Final Result</b></summary>
 <p>To solve Sudoko, backtracking has been used. Sudoku Backtracking is a recursive algorithm which goes through each cells and sequentially assigns numbers from 1 to 9 if the cell is empty. Notebook for the same can be viewed Model can be viewed <a href="https://github.com/prishitakadam/Real-Time-Sudoku-Solver/blob/master/sudokosolver.ipynb">here</a>.</p>
