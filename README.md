@@ -14,6 +14,7 @@ Sudoku is one of the most popular puzzle of all time.The goal of Sudoku is to fi
 2. Solve the puzzel and Print the Solution
 
 ## 1. Grab the Sudoko Grid from the Webcam Image
+<i>(Click to expand)</i>
 <details>
 <summary><b>Extracting the Contour with biggest area</b></summary>
 <ol>
